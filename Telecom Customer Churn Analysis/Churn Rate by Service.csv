@@ -1,0 +1,6 @@
+ServiceType,Service,TotalCustomers,ChurnedCustomers,ChurnRate
+InternetService,"Fiber optic",3096,1297,0.41893
+PhoneService,Yes,6361,1699,0.26710
+PhoneService,No,682,170,0.24927
+InternetService,DSL,2421,459,0.18959
+InternetService,No,1526,113,0.07405

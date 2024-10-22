@@ -1,0 +1,17 @@
+gender,SeniorCitizen,Partner,Dependents,TotalCustomers,ChurnedCustomers,churn_Rate
+Female,Old,No,No,317,158,0.49842
+Female,Old,No,Yes,3,1,0.33333
+Female,Old,Yes,No,209,73,0.34928
+Female,Old,Yes,Yes,39,8,0.20513
+Female,Young,No,No,1338,429,0.32063
+Female,Young,No,Yes,142,32,0.22535
+Female,Young,Yes,No,596,114,0.19128
+Female,Young,Yes,Yes,844,124,0.14692
+Male,Old,No,No,244,118,0.48361
+Male,Old,No,Yes,5,1,0.2
+Male,Old,Yes,No,281,105,0.37367
+Male,Old,Yes,Yes,44,12,0.27273
+Male,Young,No,No,1381,418,0.30268
+Male,Young,No,Yes,211,43,0.20379
+Male,Young,Yes,No,567,128,0.22575
+Male,Young,Yes,Yes,822,105,0.12774
